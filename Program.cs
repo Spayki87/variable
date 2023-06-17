@@ -10,17 +10,16 @@ namespace variable
     {
         static void Main(string[] args)
         {
-            // создание переменных
-            int money;// деньги
-            int age;//возраст
-            int life;//жизнь
-            int health;//здоровье
-            int height;//высота
-            string name;//имя
-            string sityName;//название города
-            string nameDogs;//имена собак
-            bool openDoor;//дверь открыта (истина или ложь)
-            bool lightOn;//включен ли свет (истина или ложь)
+             int money;
+            uint height;
+            float armor;
+            short health;
+            char numberChoice;
+            string name;
+            bool haveDoor;
+            byte crystals;
+            ulong namberOfPeople;
+            double distance;
         }
     }
 }
